@@ -2,7 +2,7 @@
 
 	// site owner
 	$site_name = 'Miah Paculba - CV/Portfolio';
-	$sender_domain = 'http://jieant.com/miahpaculba.com/';
+	$sender_domain = 'https://jeremiahpaculba.github.io/';
 	$to = 'miahpaculba@gmail.com';
 	
 	// contact form fields
